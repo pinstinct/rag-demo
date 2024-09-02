@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.12"
 langchain = "^0.2.15"
 langchain-community = "^0.2.15"
+beautifulsoup4 = "^4.12.3"
+langchain-experimental = "^0.0.64"
+chromadb = "^0.5.5"
 
 
 [build-system]
